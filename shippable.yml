@@ -2,7 +2,7 @@ resources:
 # Automation scripts repo
   - name: aws_vpc_tf_repo
     type: gitRepo
-    integration: "github"
+    integration: "Digital Cloud"
     versionTemplate:
       sourceName: "devops-recipes/prov_aws_vpc_terraform"
       branch: master
